@@ -1,0 +1,1 @@
+ -u "C:\Program Files (x86)\Aldec\Active-HDL 6.3\bin/systf.dll" "c:\My_Designs\design5\design5\src\Traffic_signal.v"  -cs  -g 5  -l "c:\My_Designs\design5\design5\compile\design5.erf" -r -li "c:\My_Designs\design5\design5\compile\design5.epr" -p "c:\My_Designs\design5\design5" 

@@ -1,0 +1,36 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=design5
+
+[Library]
+design5=.\design5.lib
+
+[$LibMap$]
+design5=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VERILOG
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+
+[IMPLEMENTATION]
+UCF=
+
+[Files]
+/Traffic_signal.v=-1
+/C:\My_Designs\design5\Traffic_signal2.v=-1
+
+[Files.Data]
+.\src\Traffic_signal.v=Verilog Source Code
+C:\My_Designs\design5\Traffic_signal2.v=Verilog Source Code
+

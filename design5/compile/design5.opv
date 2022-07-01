@@ -1,0 +1,1 @@
+-work design5 -lc c:/My_Designs/design5/library.cfg -fl c:/My_Designs/design5/design5/projlib.cfg -o c:/My_Designs/design5/design5/compile -l "design5"  -dbg
